@@ -1,0 +1,42 @@
+_repo: La-chasse-aux-lions_27844
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Girardet, Jules
+    alias: Girardet, J. (Jules)
+    birthdate: 1856
+    gutenberg_agent_id: '32952'
+    url: http://www.gutenberg.org/2009/agents/32952
+  - agent_name: Bombled, L. (Louis)
+    alias: Bombled, Louis
+    gutenberg_agent_id: '32953'
+    url: http://www.gutenberg.org/2009/agents/32953
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Assollant, Alfred
+    aliases:
+    - Assollant, A. (Alfred)
+    - Assolant, Alfred
+    birthdate: 1827
+    deathdate: 1886
+    gutenberg_agent_id: '6905'
+    url: http://www.gutenberg.org/2009/agents/6905
+    wikipedia: http://fr.wikipedia.org/wiki/Alfred_Assollant
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2009-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27844'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Lion hunting -- Fiction'
+title: La chasse aux lions
+url: http://www.gutenberg.org/ebooks/27844
