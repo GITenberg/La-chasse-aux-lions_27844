@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6905
     wikipedia: http://fr.wikipedia.org/wiki/Alfred_Assollant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27844#La-chasse-aux-lions
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2009-01-19'
 gutenberg_type: Text
